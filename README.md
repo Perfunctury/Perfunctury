@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python & JAVA
 - 💞️ I’m looking to collaborate on blockchain technology
 - 📫 How to reach me ...
+- :)
 
 <!---
 Perfunctury/Perfunctury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
